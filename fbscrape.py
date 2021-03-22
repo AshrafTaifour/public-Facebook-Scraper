@@ -22,7 +22,7 @@ def findHobbies(url: str, visibility: str):
     print(containers)  # displays parsed data
 
 
-my_url = 'https://www.facebook.com/mohammad.1985.chami'
+my_url = 'https://www.facebook.com/YOURPUBLICFACEBOOKURL'
 
 # findHobbies(my_url,'visibile')
 findHobbies(my_url, 'invisible')
